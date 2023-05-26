@@ -8,7 +8,7 @@ Used SQLAlchemy create_engine to connect to your sqlite database.
 Used SQLAlchemy automap_base() to reflect your tables into classes and saved the references to those classes called Station and Measurement.
 
 
-Precipitation Analysis
+## Precipitation Analysis
 
 Design a query to retrieve the last 12 months of precipitation data.
 
@@ -22,7 +22,7 @@ Plot the results using the DataFrame plot method.
 
 Use Pandas to print the summary statistics for the precipitation data.
 
-Station Analysis
+## Station Analysis
 
 Design a query to calculate the total number of stations.
 
